@@ -1,3 +1,4 @@
-# test-repo
+# 松江高専Ruby講義
 
-# add line
+## 後期はDXOpalを使用したチーム開発です。
+
